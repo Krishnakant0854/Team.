@@ -77,8 +77,8 @@ h1{
     box-shadow: rgba(50, 50, 93, 0.25) 0px 50px 100px -20px, rgba(0, 0, 0, 0.3) 0px 30px 60px -30px, rgba(10, 37, 64, 0.35) 0px -2px 6px 0px inset;
     border: 1px solid rgba(0, 0, 0, 0.355);
 }.Photo4{
-    height: 80%;
-    width: 200px;
+    height: 85%;
+    width: 210px;
     border-radius:50% ;
    background-image: url(https://cdn.pixabay.com/photo/2024/04/17/18/22/children-8702699_960_720.jpg);
     margin-top: 5.5%;
